@@ -1,0 +1,10 @@
+{
+  "name": "EchoEdge Voice AI",
+  "description": "Voice-activated AI assistant designed for edge devices, enabling low-latency wake word detection, continuous speech recognition, and secure Gemini AI answers with text-to-speech audio feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
